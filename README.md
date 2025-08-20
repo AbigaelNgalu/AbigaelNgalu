@@ -1,15 +1,10 @@
-## Hi there welcome 👋
+## Hi there welcome am Abigael ##
 
-<!--
-**AbigaelNgalu/AbigaelNgalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-**AbigaelNgalu/AbigaelNgalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+-I am Abigael an aspirant Computer Programmer insterested in wed designing and writing computer programs.
 
 #- 🔭 Learning goal and interst
 
-I’m currently interested in web designing. I look forward to be able to design Websites in future.
+-I’m currently interested in web designing. I look forward to be able to design Websites in future.
 
 ##- 🌱 I’m currently learning
 I an currently learing about the programming technologies like Javascript and python.
@@ -23,7 +18,9 @@ I an currently learing about the programming technologies like Javascript and py
 -You can reach me via my Email address: abigaelngalu@gmail.com
 
 #####- 😄 Pronouns: 
+
 She/Her
+
 ######- ⚡ Fun fact: ...
 I am interested in reaching novel and also travelling...
 -->
