@@ -5,12 +5,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#- 🔭 Learning goal and interst
+
+I’m currently interested in web designing. I look forward to be able to design Websites in future.
+
+##- 🌱 I’m currently learning
+I an currently learing about the programming technologies like Javascript and python.
+
+###- 👯 Future Collorabation
+
+-I’m looking to collaborate with my fellow programmers in the Computer programimming world.
+
+####- 📫 How to reach me: 
+
+-You can reach me via my Email address: abigaelngalu@gmail.com
+
+#####- 😄 Pronouns: 
+She/Her
+######- ⚡ Fun fact: ...
+I am interested in reaching novel and also travelling.
 -->
