@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Welcome my name is AbigaelNgalu
+## Hi there 👋Welcome my name is AbigaelNgalu
 
 **AbigaelNgalu/AbigaelNgalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
