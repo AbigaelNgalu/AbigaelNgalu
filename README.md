@@ -1,7 +1,5 @@
 ## Hi there 👋Welcome my name is Abigael Ngalu
 
-**AbigaelNgalu/AbigaelNgalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on or rather learning learing programing in general.
 - 🌱 I’m currently learning about Semantic Html.
 - 👯 I’m looking to collaborate with other web developers on in the near future.
