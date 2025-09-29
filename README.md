@@ -1,10 +1,33 @@
-## Hi there 👋Welcome my name is Abigael Ngalu
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abigael Ngalu
+======================================================================================================================================
 
-- 🔭 I’m currently working on or rather learning learing programing in general.
-- 🌱 I’m currently learning about Semantic Html.
-- 👯 I’m looking to collaborate with other web developers on in the near future.
-- 🤔 I’m looking for help with understanding the web development in general.
-- 📫 How to reach me: abigaelngalu@gmail.com
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: .i like reading novels and travelling.
--->
+A student learning about Wed design and development.
+----------------------------------------------------
+
+I have been learning programming for a month. I currently learning about Java Script.
+
+* 🌍  I'm based in Nairobi, Kenya
+* ✉️  You can contact me at [abigaelngalu@gmail.com](mailto:abigaelngalu@gmail.com)
+* 🧠  I'm currently learning About JavaScript.
+* 👥  I'm looking to collaborate on I am looking forward for collaboration in the future.
+
+<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+</p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/AbigaelNgalu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.dev.to/AbigaelNgalu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/AbigaelNgalu"><img src="https://github-readme-stats.vercel.app/api?username=AbigaelNgalu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AbigaelNgalu's GitHub stats" /></a>
+
+<a href="http://www.github.com/AbigaelNgalu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AbigaelNgalu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/AbigaelNgalu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbigaelNgalu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
