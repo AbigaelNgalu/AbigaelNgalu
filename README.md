@@ -6,7 +6,7 @@ A student learning about Wed design and development.
 
 I have been learning programming for a month. I currently learning about Java Script.
 
-* 🌍  I'm based in Nairobi, Kenya
+* 🌍  I'm based in Nairobi, Kenya.
 * ✉️  You can contact me at [abigaelngalu@gmail.com](mailto:abigaelngalu@gmail.com)
 * 🧠  I'm currently learning About JavaScript.
 * 👥  I'm looking to collaborate on I am looking forward for collaboration in the future.
